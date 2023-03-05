@@ -1,32 +1,31 @@
 ---
 layout: home
 
-title: Kitty
-titleTemplate: 一个Vue3组件库
+title: Oops
+titleTemplate: 一个没什么特别的博客
 
 hero:
-  name: Kitty
-  text: 一个Vue3组件库
-  tagline: 没啥特点仅供学习
+  name: Oops
+  text: 一个没什么特别的博客
+  tagline: 前端/日摇爱好者/日语初学者
   image:
     src: /logo.png
-    alt: Kitty
   actions:
     - theme: brand
       text: 开始
-      link: /guide/
+      link: /notes/
     - theme: alt
-      text: 在 Gitee 上查看
-      link: https://gitee.com/geeksdidi/kittyui
+      text: 在 Github 上查看
+      link: https://github.com/huangkuaikuai
 
 features:
-  - icon: 💡
-    title: Vue3组件库
-    details: 基于vite打包和TypeScript开发
-  - icon: 📦
-    title: 仅供学习使用
-    details: 倾向于Vue3组件库的学习，请勿用于实际生产项目
-  - icon: 🛠️
-    title: 按需引入
-    details: 直接支持按需引入无需配置任何插件。
+  - icon: 👨🏻‍💻
+    title: 前端开发工程师
+    details: 专注于前端监控
+  - icon: 🎸
+    title: 日摇
+    details: 电吉他在学，喜欢OOR/BLAST
+  - icon: 📚
+    title: 日语
+    details: 目前还在啃N5的语法和词汇
 ---
