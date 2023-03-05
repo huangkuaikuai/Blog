@@ -1,5 +1,5 @@
 export default {
   title: 'ShuYang',
-  base: '/Blog/',
+  // base: '/Blog/',
   description: 'Just playing around.'
 }
