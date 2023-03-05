@@ -18,10 +18,18 @@ export default {
     sidebar: {
       '/notes': [
         {
-          text: 'JavaScript',
+          text: '📒 JavaScript',
           items: [
             {
               text: '别再使用Date.now()计算时间差', link: '/notes/javascript/date.md'
+            }
+          ]
+        },
+        {
+          text: '🎸 电吉他',
+          items: [
+            {
+              text: '调音思路', link: '/notes/guitar/tone.md'
             }
           ]
         }
@@ -36,10 +44,10 @@ export default {
         //   ]
         // },
         {
-          text: '咸鱼之日',
+          text: '🐟 咸鱼日记',
           items: [
             {
-              text: '霍格沃茨之遗', link: '/life/game/game-1.md'
+              text: '🏰 霍格沃茨之遗', link: '/life/game/game-1.md'
             }
           ]
         },

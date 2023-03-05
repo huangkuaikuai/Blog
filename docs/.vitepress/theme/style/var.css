@@ -20,5 +20,9 @@
   --vp-button-brand-active-border: #F6CEEC;
 
   /* 上下页 */
-  --vp-c-brand: #f47dea;
+  --vp-c-brand: #ba4fc4ec;
+  --vp-c-brand-dark: #f47dea;
+
+  /* 侧边栏 */
+  /* --vp-sidebar-bg-color: ; */
 }
