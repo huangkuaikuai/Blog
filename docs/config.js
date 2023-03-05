@@ -1,5 +1,5 @@
 export default {
-  title: 'VitePress',
+  title: 'ShuYang',
   base: '/Blog/',
   description: 'Just playing around.'
 }
